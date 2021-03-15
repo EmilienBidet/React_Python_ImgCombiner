@@ -1,3 +1,9 @@
 static/node_modules
 
+static/dist/bundle.js
+
+static/dist/images/*
+
+!static/dist/images/origin
+
 server/venv
